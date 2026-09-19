@@ -114,8 +114,6 @@ AI-powered virtual assistant built for a Smart India Hackathon problem statement
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsamad1366&layout=compact&theme=radical&hide_border=true" height="170"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulsamad1366&theme=redial&hide_border=true" width="95%"/>
-
 </div>
 
 <br/>
